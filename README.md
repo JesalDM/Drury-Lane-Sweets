@@ -1,6 +1,5 @@
-# Project 1: Drury-Lane-Sweets (Dessert Website)
-# Group Name: Arrays of Sunshine
-# Team members: Amy, Brenda, David, Jesal, Shannon
+# Drury-Lane-Sweets
+A dessert place website with online ordering and delivery capabilities, and provides catering services. Created using HTML, CSS, Javascript, JQuery, AJAX.
 
 # Description:
 Drury Lane Sweets is a local small business for baked goods. We make cakes, cupcakes, cookies, donuts, and pies. We also cater events customized to your needs. We created a dynamic website for our business. You can view our menu and order online, payment feature to be added soon. You can find nutrition info on our Menu page. You can find our location on a map on our Contact us page. We believe online ordering is very important in this day and age. We want people to be able to have treats delivered to their house/workplace. We also like customizing treats for events. We are motivated to cater to our customers and make them full of desserts.
@@ -11,13 +10,19 @@ I WANT to order desserts online from a local bakery,
 SO THAT I can satiate my dessert craving at home.
 
 # Links:
-- GitHub: https://github.com/shannonquinn91/Drury-Lane-Sweets
-- Deployed Page: https://shannonquinn91.github.io/Drury-Lane-Sweets/ 
+- GitHub: https://github.com/JesalDM/Drury-Lane-Sweets
+- Deployed Page: https://jesaldm.github.io/Drury-Lane-Sweets/. 
 - Screenshot: ![homepage](assets/images/homepage.png)
 - Demo: ![Website Demo](assets/images/Drury-Lane-Sweets.gif)
 
 # Technologies Used: 
-HTML, CSS, JavaScript, JQuery, AJAX, Google Fonts, Font Awesome, Slack, GitHub, Balsamiq
+HTML, CSS, JavaScript
+
+# Libraries Used:
+JQuery,  AJAX, Google Fonts, Font Awesome,
+
+# Tools used
+ Slack, GitHub, Balsamiq
 
 # CSS Framework: 
 Material Design Bootstrap
@@ -25,14 +30,11 @@ Material Design Bootstrap
 # API:
 Nutritionix, Mapbox
 
-# Tasks
-- Wireframe: Team
-- Home Page: Team
-- Menu Page: David
-- Catering Page: Jesal
-- About Us Page: Brenda
-- Contact Us Page: Amy
-- Cart/Online Order: Shannon
+# Collaborators
+- Shannon Quinn (shannonquinn91)
+- David Labins (Dlabins)
+- Amy Upton (amybethupton)
+- Brenda Burns (SSBurns-three)
 
 # Challenges
 - Switched framework from Semantic to MDBootstrap for better responsiveness
@@ -46,7 +48,7 @@ Nutritionix, Mapbox
 - Nav bar responsiveness
 - Local storage functionality
 
-# In the future we would like to add/improve:
+# For Future Development
 - Online billing and payment system
 - User login functionality
 - User database and order history
