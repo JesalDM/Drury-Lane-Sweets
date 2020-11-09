@@ -10,8 +10,8 @@ I WANT to order desserts online from a local bakery,
 SO THAT I can satiate my dessert craving at home.
 
 # Links:
-- GitHub: https://github.com/JesalDM/Drury-Lane-Sweets
-- Deployed Page: https://jesaldm.github.io/Drury-Lane-Sweets/. 
+- GitHub: https://github.com/JesalDM/dessert-place-website/
+- Deployed Page: https://jesaldm.github.io/dessert-place-website/. 
 - Screenshot: ![homepage](assets/images/homepage.png)
 - Demo: ![Website Demo](assets/images/Drury-Lane-Sweets.gif)
 
