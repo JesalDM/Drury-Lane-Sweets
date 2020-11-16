@@ -10,8 +10,8 @@ I WANT to order desserts online from a local bakery,
 SO THAT I can satiate my dessert craving at home.
 
 # Links:
-- GitHub: https://github.com/JesalDM/dessert-place-website/
-- Deployed Page: https://jesaldm.github.io/dessert-place-website/. 
+- GitHub: https://github.com/JesalDM/Drury-Lane-Sweets/
+- Deployed Page: https://jesaldm.github.io/Drury-Lane-Sweets/. 
 - Screenshot: ![homepage](assets/images/homepage.png)
 - Demo: ![Website Demo](assets/images/Drury-Lane-Sweets.gif)
 
@@ -30,11 +30,15 @@ Material Design Bootstrap
 # API:
 Nutritionix, Mapbox
 
-# Collaborators
-- Shannon Quinn (shannonquinn91)
-- David Labins (Dlabins)
-- Amy Upton (amybethupton)
-- Brenda Burns (SSBurns-three)
+# Collaborators/Contributors :
+- Shannon Quinn (https://github.com/shannonquinn91)
+- David Labins (https://github.com/Dlabins)
+- Amy Upton (https://github.com/amybethupton)
+- Brenda Burns (https://github.com/SSBurns-three)
+- Jesal Mehta (https://github.com/JesalDM/)
+
+# License:
+This project is licensed under the terms of the MIT license.
 
 # Challenges
 - Switched framework from Semantic to MDBootstrap for better responsiveness
