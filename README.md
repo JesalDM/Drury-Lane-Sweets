@@ -39,6 +39,7 @@ Nutritionix, Mapbox
 
 # License:
 This project is licensed under the terms of the MIT license.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Challenges
 - Switched framework from Semantic to MDBootstrap for better responsiveness
